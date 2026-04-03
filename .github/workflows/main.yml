@@ -23,7 +23,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./   # deploy whole repo 
+          path: ./tharuntomy@mulearn
 
       # 3. Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
