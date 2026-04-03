@@ -4,10 +4,10 @@ Name: Tharun Tomy
 muid: tharuntomy@mulearn
 
 ## 🔗 Repository Link  
-https://github.com/tharun06x/shipyard-devops  
+https://github.com/tharun06x/Shipyard-Foundations 
 
 ## 🌐 Live Website  
-https://tharun06x.github.io/shipyard-devops/
+https://tharun06x.github.io/Shipyard-Foundations/
 
 ## 🌐 Git Actions Link
-https://github.com/tharun06x/shipyard-devops/actions/
+https://github.com/tharun06x/Shipyard-Foundations/actions
