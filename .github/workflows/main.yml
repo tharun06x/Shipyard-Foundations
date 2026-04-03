@@ -3,7 +3,7 @@ name: Deploy Website
 on:
   push:
     branches:
-      - main   # triggers when you push to main
+      - task3-tharuntomy   # triggers when you push to main
       
 permissions:
   contents: read
